@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blog!!
 ---
+
+This content is all about me!!!
 
